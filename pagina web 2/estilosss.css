@@ -1,0 +1,59 @@
+/* Resetear estilos por defecto del navegador */
+body, h1, h2, p, ul, li {
+	margin: 0;
+	padding: 0;
+}
+
+/*estilos para el emcabezado */
+header{
+/* Resetear estilos por defecto del navegador */
+body, h1, h2, p, ul, li {
+	margin: 0;
+	padding: 0;
+}
+
+/*estilos para el emcabezado */
+header{
+	background-color: #330000;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+imagen
+width: 100px;
+height: 100px;
+align-self: flex-start;
+
+}
+
+/*estilos para la barra de navegacion */
+nav {
+	background-color: #330000;
+	padding: 10px;
+}
+
+nav ul{
+	list-styile-type: none;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline;
+	margin-right: 10px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #fff;
+}
+/* estilos para el contenido princpal */
+main´{
+	padding: 20px;
+}
+
+/* estilos para el pie de pagina */
+footer {
+	background-color:  #D4AF37;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+}
